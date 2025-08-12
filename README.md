@@ -11,9 +11,10 @@ The analysis focuses on:
 - Delivery time evaluation
 
 ---
-## 📌 Problem Statement: Ferns and Petals Sales Analysis
 
-file:///C:/Users/ramya/Downloads/Ferns%20and%20Petals%20Sales%20Analysis.pdf
+## Problem Statement: Ferns and Petals Sales Analysis
+
+![Problem Statement](images/problem_statement.png)
 
 You have been given a dataset from **FNP (Ferns and Petals)** that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.  
 The dataset contains details about the products, orders, customers, and relevant dates.  
@@ -21,30 +22,29 @@ Your task is to analyze this dataset to uncover key insights related to sales tr
 
 The business questions to answer are:
 
-1. **Total Revenue** – Identify the overall revenue.  
-2. **Average Order and Delivery Time** – Evaluate the time taken for orders to be delivered.  
-3. **Monthly Sales Performance** – Examine how sales fluctuate across the months of 2023.  
-4. **Top Products by Revenue** – Determine which products are the top revenue generators.  
-5. **Customer Spending Analysis** – Understand how much customers are spending on average.  
-6. **Sales Performance by Top 5 Products** – Track the sales performance of the top 5 products.  
-7. **Top 10 Cities by Number of Orders** – Find out which cities are placing the highest number of orders.  
-8. **Order Quantity vs. Delivery Time** – Analyze if higher order quantities impact delivery times.  
-9. **Revenue Comparison Between Occasions** – Compare revenue generated across different occasions.  
-10. **Product Popularity by Occasion** – Identify which products are most popular during specific occasions.  
+1. Total Revenue – Identify the overall revenue.  
+2. Average Order and Delivery Time – Evaluate the time taken for orders to be delivered.  
+3. Monthly Sales Performance – Examine how sales fluctuate across the months of 2023.  
+4. Top Products by Revenue – Determine which products are the top revenue generators.  
+5. Customer Spending Analysis – Understand how much customers are spending on average.  
+6. Sales Performance by Top 5 Products – Track the sales performance of the top 5 products.  
+7. Top 10 Cities by Number of Orders – Find out which cities are placing the highest number of orders.  
+8. Order Quantity vs. Delivery Time – Analyze if higher order quantities impact delivery times.  
+9. Revenue Comparison Between Occasions – Compare revenue generated across different occasions.  
+10. Product Popularity by Occasion – Identify which products are most popular during specific occasions.  
 
 ---
 
-
-##  Tools & Technologies Used
-- **Microsoft Excel** – Data cleaning, processing, and dashboard creation
-- **Power Query** – Data transformation and integration
-- **Pivot Tables & Charts** – Data summarization and visualization
-- **Conditional Formatting** – Highlighting insights
-- **CSV Files** – Raw dataset storage
+## Tools & Technologies Used
+- Microsoft Excel – Data cleaning, processing, and dashboard creation
+- Power Query – Data transformation and integration
+- Pivot Tables & Charts – Data summarization and visualization
+- Conditional Formatting – Highlighting insights
+- CSV Files – Raw dataset storage
 
 ---
 
-##  Key Insights
+## Key Insights
 - Identified the top 5 products contributing the most revenue
 - Discovered seasonal and occasion-based sales patterns
 - Found that certain cities consistently order more than others
@@ -53,7 +53,7 @@ The business questions to answer are:
 
 ---
 
-##  How to Use
+## How to Use
 1. Clone or download this repository.
 2. Open `FNP_Sales_Dashboard.xlsx` in Excel.
 3. Explore the dashboard tabs for:
@@ -61,4 +61,8 @@ The business questions to answer are:
    - Customer behavior
    - Occasion-based performance
 
+---
 
+## Dashboard Preview
+
+![FNP Sales Dashboard](Screenshot 2025-08-12 121641.png)
