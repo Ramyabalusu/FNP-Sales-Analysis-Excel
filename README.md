@@ -35,9 +35,53 @@ The business questions to answer are:
 
 ## 📊 Dashboard Preview
 
-![FNP Sales Dashboard](fnp_dashboard.png)
+## Dashboard Preview
+
+![FNP Sales Dashboard](images/Screenshot%202025-08-12%20121641.png)
+
 
 ---
 
 ## 📁 Project Structure
+
+FNP-Sales-Analysis-Excel/
+├── data/
+│   ├── customers.csv              # Customer details dataset
+│   ├── orders.csv                 # Order details dataset
+│   └── products.csv               # Product details dataset
+│
+├── images/
+│   └── Screenshot 2025-08-12 121641.png  # Dashboard screenshot
+│
+├── FNP_Sales_Dashboard.xlsx        # Final interactive Excel dashboard
+└── README.md                       # Project documentation
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Microsoft Excel** – Data cleaning, processing, and dashboard creation
+- **Power Query** – Data transformation and integration
+- **Pivot Tables & Charts** – Data summarization and visualization
+- **Conditional Formatting** – Highlighting insights
+- **CSV Files** – Raw dataset storage
+
+---
+
+## 📈 Key Insights
+- Identified the top 5 products contributing the most revenue
+- Discovered seasonal and occasion-based sales patterns
+- Found that certain cities consistently order more than others
+- Highlighted delivery time trends and bottlenecks
+- Analyzed customer spending behaviors to guide marketing strategies
+
+---
+
+## 🚀 How to Use
+1. Clone or download this repository.
+2. Open `FNP_Sales_Dashboard.xlsx` in Excel.
+3. Explore the dashboard tabs for:
+   - Revenue analysis
+   - Customer behavior
+   - Occasion-based performance
+
 
