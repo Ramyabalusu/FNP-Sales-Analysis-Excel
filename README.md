@@ -14,8 +14,6 @@ The analysis focuses on:
 
 ## Problem Statement: Ferns and Petals Sales Analysis
 
-![Problem Statement](images/problem_statement.png)
-
 You have been given a dataset from **FNP (Ferns and Petals)** that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.  
 The dataset contains details about the products, orders, customers, and relevant dates.  
 Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior, and product performance.
@@ -62,7 +60,3 @@ The business questions to answer are:
    - Occasion-based performance
 
 ---
-
-## Dashboard Preview
-
-![FNP Sales Dashboard](Screenshot 2025-08-12 121641.png)
