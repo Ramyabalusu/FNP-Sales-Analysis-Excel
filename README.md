@@ -11,8 +11,9 @@ The analysis focuses on:
 - Delivery time evaluation
 
 ---
-
 ## 📌 Problem Statement: Ferns and Petals Sales Analysis
+
+file:///C:/Users/ramya/Downloads/Ferns%20and%20Petals%20Sales%20Analysis.pdf
 
 You have been given a dataset from **FNP (Ferns and Petals)** that specializes in sending gifts for various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries.  
 The dataset contains details about the products, orders, customers, and relevant dates.  
@@ -33,32 +34,8 @@ The business questions to answer are:
 
 ---
 
-## 📊 Dashboard Preview
 
-## Dashboard Preview
-
-![FNP Sales Dashboard](images/Screenshot%202025-08-12%20121641.png)
-
-
----
-
-## 📁 Project Structure
-
-FNP-Sales-Analysis-Excel/
-├── data/
-│   ├── customers.csv              # Customer details dataset
-│   ├── orders.csv                 # Order details dataset
-│   └── products.csv               # Product details dataset
-│
-├── images/
-│   └── Screenshot 2025-08-12 121641.png  # Dashboard screenshot
-│
-├── FNP_Sales_Dashboard.xlsx        # Final interactive Excel dashboard
-└── README.md                       # Project documentation
-
----
-
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - **Microsoft Excel** – Data cleaning, processing, and dashboard creation
 - **Power Query** – Data transformation and integration
 - **Pivot Tables & Charts** – Data summarization and visualization
@@ -67,7 +44,7 @@ FNP-Sales-Analysis-Excel/
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Identified the top 5 products contributing the most revenue
 - Discovered seasonal and occasion-based sales patterns
 - Found that certain cities consistently order more than others
@@ -76,7 +53,7 @@ FNP-Sales-Analysis-Excel/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone or download this repository.
 2. Open `FNP_Sales_Dashboard.xlsx` in Excel.
 3. Explore the dashboard tabs for:
