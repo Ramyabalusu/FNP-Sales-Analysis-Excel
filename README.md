@@ -33,10 +33,6 @@ The business questions to answer are:
 
 ---
 
-## Dashboard
-![Uploading Screenshot 2025-08-12 121641.png…]()
-
-
 ## Tools & Technologies Used
 - Microsoft Excel – Data cleaning, processing, and dashboard creation
 - Power Query – Data transformation and integration
@@ -63,4 +59,5 @@ The business questions to answer are:
    - Customer behavior
    - Occasion-based performance
 
----
+
+
