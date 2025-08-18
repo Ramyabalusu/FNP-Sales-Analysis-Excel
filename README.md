@@ -32,6 +32,10 @@ The business questions to answer are:
 10. Product Popularity by Occasion – Identify which products are most popular during specific occasions.  
 
 ---
+## Dashboard
+
+<img width="1608" height="653" alt="Screenshot 2025-08-12 121641" src="https://github.com/user-attachments/assets/31ef0347-6c09-413f-915b-7a096f136c39" />
+
 
 ## Tools & Technologies Used
 - Microsoft Excel – Data cleaning, processing, and dashboard creation
